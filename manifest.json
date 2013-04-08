@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Time Sink URL Tracker",
-    "description": "whatever",
+    "description": "Appends [[domain.com]] to the end of HTML title elements.",
     "version": "1.0",
     "content_scripts": [
         {
